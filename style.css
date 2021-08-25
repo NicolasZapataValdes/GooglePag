@@ -1,0 +1,238 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.imagen{
+    position: relative;
+    width: 3%; 
+    left: 0%;
+    margin-bottom: 2%;
+    border-radius: 100%;
+  
+}
+
+.icono{
+    position: relative;
+    top: 5px; 
+      
+    font: 150% sans-serif;
+}
+
+.fa-th{
+color:black;
+}
+
+.gmail{
+    position: relative;
+    top: 10%;
+    color: rgba(0, 0, 0, 0.815);
+    text-decoration: none;
+    font: 80% sans-serif;
+}
+
+.gmail:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.images{
+    position: relative;
+    top: 10%;
+    color: rgba(0, 0, 0, 0.815);
+    text-decoration: none;
+    font: 80% sans-serif;
+}
+
+.images:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+.contenedor{
+    
+    position: relative;
+    top: 10px;
+   display: flex;
+   bottom: 20%;
+justify-content: flex-end;
+
+
+}
+
+.google{
+width: 40%;
+}
+
+.gog{
+    display: flex;
+    justify-content: center;
+
+   
+}
+
+.bi input[class="barra"]{
+    padding-left:40px ;
+    padding-right:40px ;
+  
+}
+
+
+.bi i[class="fas fa-search"]{
+    position: absolute;
+    left: 5%;
+    bottom: 35%;
+    
+    color: #aaa;
+}
+
+.bi i[class="fas fa-microphone-alt"]{
+    position: absolute;
+    left: 90%;
+    bottom: 35%;
+    
+    color: #aaa;
+}
+
+
+
+.bi{
+  
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 500px;
+   
+}
+
+.barra{
+    padding: 0% 0%;
+    outline: none;
+    border: solid 1px rgba(0, 0, 0, 0.253);
+    border-radius: 500px;
+    WIDTH: 300px; HEIGHT: 50px
+}
+.maestro{
+    padding: 0% 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.boton1{
+margin: 1%;
+
+}
+.boton2{
+    margin: 1%;
+}
+
+.nosexd{
+    display: flex;
+    margin-top: 1%;
+    justify-content: center;
+}
+
+
+
+.messi{
+    color: rgba(0, 0, 0, 0.76);
+    padding: 5%;
+   
+    border-radius: 10px;
+    border: none; 
+}
+
+.messi:hover{
+    color: blue;
+   
+    cursor: pointer;
+    
+}
+
+.buscar{
+    color: rgba(0, 0, 0, 0.76);
+    padding: 5%;
+   
+    border-radius: 10px;
+    border: none; ; 
+}
+
+.buscar:hover{
+    
+    cursor: pointer;
+        color: blue;
+
+}
+
+.BarraSolcial{
+	display: flex;
+    position: relative;
+    top: 10px;
+	flex-direction: row;
+    justify-content: center;  
+   
+}
+
+.icon{
+    color: white;
+	text-decoration: none;
+	padding: 10px;
+    margin-left: 1%;
+    margin-right: 1%;
+	display: flex;
+   border-radius: 50%;
+    font-size: 150%;
+  
+}
+
+
+.facebook{
+    background-color: #3b5998;
+}
+
+.facebook:hover{
+
+}
+
+.you:hover{
+   
+
+}
+
+.twitter:hover{
+ 
+  
+   
+}
+
+.twich:hover{
+ 
+}
+
+.you{
+    background-color: #c4302b;
+}
+
+.twitter{
+    background-color: #00acee;
+}
+
+.twich{
+  
+    background-color: #6441a5;
+}
+
+.icon:hover{
+   
+	border-radius: 0%;
+	transition: all .5s;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.37);
+}
+
+
+
+.BarraSolcial:hover{
+    
+	
+}
